@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Specificity,Sensitivity
+SVM,67,64,74,59
+KNN,69,68,79,57
+Random Forest,71,68,76,65
+XGBoost,71,70,57,82
+Decision Tree,72,67,72,71
+Nnet,72,69,75,69
